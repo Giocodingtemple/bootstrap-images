@@ -3,6 +3,12 @@ img{
     width: 200px;
 }
 
+.img-fluid{
+    width: 100% \9;
+    max-width: 100%;
+    height: auto;
+}
+
 #one{
     display: flex;
     flex-direction: row;
