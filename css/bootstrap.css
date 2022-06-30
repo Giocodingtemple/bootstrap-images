@@ -1,0 +1,15 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+
+#one{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#two{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
